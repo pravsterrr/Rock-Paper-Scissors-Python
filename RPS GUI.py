@@ -129,3 +129,4 @@ labeled.grid(row=3, column=2)
 copy = Label(top, text= "RPS GUI on Tkinter on Python. By Praveen 2016")
 copy.grid(row=5, column=2)
 top.mainloop()
+hi
